@@ -1,3 +1,9 @@
+# The weather app
+
+--The purpose is to practise skills in React and JavaScript. Moreover, it was created to learn how to work with API requests.
+
+--The last version was released in 07/10/2022 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
